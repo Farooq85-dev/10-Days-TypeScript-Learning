@@ -18,3 +18,8 @@ https://www.typescriptlang.org/docs/handbook/2/everyday-types.html`
 
 Follow The Link To Learn More On Functions
 https://www.typescriptlang.org/docs/handbook/2/functions.html`
+
+## Day-3 ---- OBJECT TYPES
+
+Follow The Link To Learn More On Functions
+https://www.typescriptlang.org/docs/handbook/2/objects.html`
