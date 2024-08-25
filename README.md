@@ -19,12 +19,17 @@ https://www.typescriptlang.org/docs/handbook/2/everyday-types.html`
 Follow The Link To Learn More On Functions
 https://www.typescriptlang.org/docs/handbook/2/functions.html`
 
-## Day-3 ---- OBJECT TYPES
+## Day-4 ---- OBJECT TYPES
 
 Follow The Link To Learn More On Functions
 https://www.typescriptlang.org/docs/handbook/2/objects.html`
 
-## Day-3 ---- ENUMS, VOID AND NEVER
+## Day-5 ---- ENUMS, VOID AND NEVER
 
 Follow The Link To Learn ENUMS, VOID AND NEVER
 https://www.tutorialsteacher.com/typescript/typescript-never`
+
+## Day-6 ---- MORE ON UNION
+
+Follow The Link To Learn MORE ON UNION
+https://www.tutorialsteacher.com/typescript/typescript-union`
