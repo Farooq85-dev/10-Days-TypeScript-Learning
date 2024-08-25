@@ -23,3 +23,8 @@ https://www.typescriptlang.org/docs/handbook/2/functions.html`
 
 Follow The Link To Learn More On Functions
 https://www.typescriptlang.org/docs/handbook/2/objects.html`
+
+## Day-3 ---- ENUMS, VOID AND NEVER
+
+Follow The Link To Learn ENUMS, VOID AND NEVER
+https://www.tutorialsteacher.com/typescript/typescript-never`
