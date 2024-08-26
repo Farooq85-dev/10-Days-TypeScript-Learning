@@ -33,3 +33,13 @@ https://www.tutorialsteacher.com/typescript/typescript-never`
 
 Follow The Link To Learn MORE ON UNION
 https://www.tutorialsteacher.com/typescript/typescript-union`
+
+## Day-7 ---- INTERSECTION TYPES
+
+Follow The Link To INTERSECTION TYPES
+https://www.typescripttutorial.net/typescript-tutorial/typescript-intersection-types/`
+
+## Day-8 ---- MORE ON TYPE ALIASES
+
+Follow The Link To INTERSECTION TYPES
+https://www.typescripttutorial.net/typescript-tutorial/typescript-type-aliases/`
