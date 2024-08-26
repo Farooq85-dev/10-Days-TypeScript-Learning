@@ -41,5 +41,10 @@ https://www.typescripttutorial.net/typescript-tutorial/typescript-intersection-t
 
 ## Day-8 ---- MORE ON TYPE ALIASES
 
-Follow The Link To INTERSECTION TYPES
+Follow The Link To TYPE ALIASES
 https://www.typescripttutorial.net/typescript-tutorial/typescript-type-aliases/`
+
+## Day-9 ---- MORE ON TYPE INTERFACES
+
+Follow The Link To TYPE INTERFACES
+https://www.typescripttutorial.net/typescript-tutorial/typescript-type-inference/`
