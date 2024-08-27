@@ -47,4 +47,11 @@ https://www.typescripttutorial.net/typescript-tutorial/typescript-type-aliases/`
 ## Day-9 ---- MORE ON TYPE INTERFACES
 
 Follow The Link To TYPE INTERFACES
-https://www.typescripttutorial.net/typescript-tutorial/typescript-type-inference/`
+https://www.typescripttutorial.net/?s=type+interface`
+
+## Day-10 ---- DIFFERENCE B/W TYPE ALIAS AND TYPE INTERFACES
+
+`Follow The DIFFERENCE B/W TYPE ALIAS AND TYPE INTERFACES
+Only view Day-10 files And Follow The Link To TYPE INTERFACES
+https://www.totaltypescript.com/type-vs-interface-which-should-you-use
+`
