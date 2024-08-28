@@ -62,3 +62,9 @@ https://www.totaltypescript.com/type-vs-interface-which-should-you-use
 Follow The Link To Learn Classes 
 https://www.totaltypescript.com/type-vs-interface-which-should-you-use
 `
+
+## Day-12 ---- TYPE ASSERTIONS
+
+`Follow The ClASSES
+Follow The Link To Learn TYPE ASSERTIONS
+https://www.typescripttutorial.net/typescript-tutorial/type-assertions/`
