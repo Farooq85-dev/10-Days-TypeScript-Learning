@@ -11,43 +11,59 @@ https://www.freecodecamp.org/news/learn-typescript-beginners-guide/`
 
 ## Day-2 ---- EVERY DAY TYPES
 
+`
 Follow The Link To Every Day Types
 https://www.typescriptlang.org/docs/handbook/2/everyday-types.html`
+`
 
 ## Day-3 ---- MORE ON FUNCTIONS
 
+`
 Follow The Link To Learn More On Functions
 https://www.typescriptlang.org/docs/handbook/2/functions.html`
+`
 
 ## Day-4 ---- OBJECT TYPES
 
+`
 Follow The Link To Learn More On Functions
 https://www.typescriptlang.org/docs/handbook/2/objects.html`
+`
 
 ## Day-5 ---- ENUMS, VOID AND NEVER
 
+`
 Follow The Link To Learn ENUMS, VOID AND NEVER
 https://www.tutorialsteacher.com/typescript/typescript-never`
+`
 
 ## Day-6 ---- MORE ON UNION
 
+`
 Follow The Link To Learn MORE ON UNION
 https://www.tutorialsteacher.com/typescript/typescript-union`
+`
 
 ## Day-7 ---- INTERSECTION TYPES
 
+`
 Follow The Link To INTERSECTION TYPES
 https://www.typescripttutorial.net/typescript-tutorial/typescript-intersection-types/`
+`
 
 ## Day-8 ---- MORE ON TYPE ALIASES
 
+`
 Follow The Link To TYPE ALIASES
 https://www.typescripttutorial.net/typescript-tutorial/typescript-type-aliases/`
+`
 
 ## Day-9 ---- MORE ON TYPE INTERFACES
 
+`
 Follow The Link To TYPE INTERFACES
 https://www.typescripttutorial.net/?s=type+interface`
+`
 
 ## Day-10 ---- DIFFERENCE B/W TYPE ALIAS AND TYPE INTERFACES
 
