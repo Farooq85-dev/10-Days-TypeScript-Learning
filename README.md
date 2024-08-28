@@ -52,6 +52,13 @@ https://www.typescripttutorial.net/?s=type+interface`
 ## Day-10 ---- DIFFERENCE B/W TYPE ALIAS AND TYPE INTERFACES
 
 `Follow The DIFFERENCE B/W TYPE ALIAS AND TYPE INTERFACES
-Only view Day-10 files And Follow The Link To TYPE INTERFACES
+Only view Day-10 files And Follow The Link To Learn TYPE INTERFACES
+https://www.totaltypescript.com/type-vs-interface-which-should-you-use
+`
+
+## Day-11 ---- CLASSES
+
+`Follow The ClASSES
+Follow The Link To Learn Classes 
 https://www.totaltypescript.com/type-vs-interface-which-should-you-use
 `
