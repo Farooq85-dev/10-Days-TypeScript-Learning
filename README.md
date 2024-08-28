@@ -68,3 +68,12 @@ https://www.totaltypescript.com/type-vs-interface-which-should-you-use
 `Follow The ClASSES
 Follow The Link To Learn TYPE ASSERTIONS
 https://www.typescripttutorial.net/typescript-tutorial/type-assertions/`
+
+## Day-13 ---- TYPE LITERALS
+
+`Follow The link to Learn TYPE LITERALS
+Follow The Link To Learn TYPE ASSERTIONS
+https://typespec.io/docs/language-basics/type-literals#:~:text=When%20designing%20APIs%2C%20it's%20common,a%20few%20specific%20string%20values.
+`
+
+### ! --- CHALLENGE FINISHED --- !
